@@ -1,0 +1,57 @@
+
+.menu ul{
+    list-style: square;
+    background-color: aquamarine;
+}
+.menu li{
+display: inline-block;
+padding: 30px;
+}
+
+table, th, td {
+
+    border: 1px solid black;
+    
+    }
+    th, td {
+
+        padding: 5px;
+        
+        background-color: #FDDF95;
+    }
+    th, td {
+        size: 50px;
+    }
+    .container{
+        background: url(image/skill.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+.hello{
+    background: url(image/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
+.student{
+    background: url(image/background2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
+.students{
+    background: url(image/graduation.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
+.contact{
+    background: url(image/bitcoin.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
+.homepage{
+    background: url(im);
+}
